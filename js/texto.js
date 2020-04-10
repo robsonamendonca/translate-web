@@ -1,19 +1,19 @@
 /**
  * Como usar:
- * Adiconar os scripts js na tag head
+ * Adicionar os scripts js na tag head
  * 1. idiomas.js  - dicionario com os tipo (identificadores) e sua tradução
  * 2. texto.js - classe responsavel pelos metodos e funcoes para traduzir
  * 3. textoController.js - consumo a classe e exeuta as chamadas
  * 
- * Traduzri um conteudo de um tag, deve-se:
+ * Traduzir um conteudo de um tag, deve-se:
  * 1. definir um id ou classe
  * 2. adicionar mais um tratativa em JQuery no metodo: setTextos(), onde:
  *  a) obter o conteudo da tag (html,value,text), sempre que possivel manter o mesmo nome para o tipo
- *  b) adiconar no arquivo idiomas.js - o tipo nas diversos idiomas e suas repectivas traduções; 
+ *  b) adiconar no arquivo idiomas.js - o tipo nos diversos idiomas e suas repectivas traduções; 
  * 
  * Depois somente testar
- * dividasd e sugestões: http://about.me/robsonamendonca
- * Desnvolvedor: Robson Mendonça
+ * duvidas e sugestões: http://about.me/robsonamendonca
+ * Desenvolvedor: Robson Mendonça
  * 2020-04-10
 
 
